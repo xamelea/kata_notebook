@@ -7,9 +7,12 @@
 # **Оглавление**
 ### Java Core
 1. Примитивные типы данных
-   - Представление вещественных чисел в памяти [Статья на struchkov.dev](https://struchkov.dev/blog/ru/floating-point-math/)
-     - Классы обёртки *(Wrapper Classes)*
-      - Автоупаковка и распаковка *(Autoboxing and Unboxing)* [Статья на javarush](https://javarush.com/groups/posts/706-avtoupakovka-i-raspakovka-v-java)
+
+
+## **Примитивные типы данных**
+1. Представление вещественных чисел в памяти [Статья на struchkov.dev](https://struchkov.dev/blog/ru/floating-point-math/)
+2. Классы обёртки *(Wrapper Classes)*
+   - Автоупаковка и распаковка *(Autoboxing and Unboxing)* [Статья на javarush](https://javarush.com/groups/posts/706-avtoupakovka-i-raspakovka-v-java)
    
     
     
