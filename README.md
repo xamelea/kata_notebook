@@ -12,6 +12,7 @@
 ## **Примитивные типы данных**
 1. Представление вещественных чисел в памяти [Статья на struchkov.dev](https://struchkov.dev/blog/ru/floating-point-math/)
 2. Классы обёртки *(Wrapper Classes)*
+   - Подробнее про классы обёртки [Статья на dzen 1 часть](https://dzen.ru/a/X7nUuMzXlTqq3XJV) [2 часть](https://dzen.ru/a/X9GpeBF3Rnl2gzGz?share_to=link) [3 часть](https://dzen.ru/a/X9b4c5SA7Hjc9SXt?share_to=link)
    - Автоупаковка и распаковка *(Autoboxing and Unboxing)* [Статья на javarush](https://javarush.com/groups/posts/706-avtoupakovka-i-raspakovka-v-java)
    
     
