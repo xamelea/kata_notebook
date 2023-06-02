@@ -7,6 +7,7 @@
 # **Оглавление**
 ### Java Core
 1. [Примитивные типы данных](#примитивные-типы-данных)
+2. [Операторы ветвления и циклов](#)
 
 
 ## **Примитивные типы данных**
@@ -15,6 +16,8 @@
    - Подробнее про классы обёртки [Статья на dzen 1 часть](https://dzen.ru/a/X7nUuMzXlTqq3XJV) [2 часть](https://dzen.ru/a/X9GpeBF3Rnl2gzGz?share_to=link) [3 часть](https://dzen.ru/a/X9b4c5SA7Hjc9SXt?share_to=link)
    - Автоупаковка и распаковка *(Autoboxing and Unboxing)* [Статья на javarush](https://javarush.com/groups/posts/706-avtoupakovka-i-raspakovka-v-java)
    - BigInteger [Статья на GeeksForGeeks](https://www.geeksforgeeks.org/biginteger-class-in-java/)
-    
-    
+## **Операторы ветвления и циклов**
+1. if, else, else if []()
+2. for, while, do..while, foreach
+3. switch [Статья на Javarush](https://javarush.com/groups/posts/operator-switch-v-java)
 > Чуть позже, когда появится больше заметок, я структурирую это лучше
