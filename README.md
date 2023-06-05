@@ -25,4 +25,4 @@
 > Чуть позже, когда появится больше заметок, я структурирую это лучше
 
 ## **Регулярные выражения**
-1. Шпаргалка [wiki.dieg.info][https://wiki.dieg.info/regexp]
+1. Шпаргалка [wiki.dieg.info](https://wiki.dieg.info/regexp)
